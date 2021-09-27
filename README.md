@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sandeep
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI Technologies
+- 👀 I’m interested in new technologies
 - 📫 How to reach me ... sandeep82ponaganti@gmail.com
 
 <!---
